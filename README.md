@@ -54,14 +54,51 @@ This project was inspired by real-world food delivery operations and simulates h
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Dashboard Screenshots
 
-| Overview Page | Delivery Page |
-|---------------|----------------|
-| ![Orders](Swiggy1.png) | ![Delivery](Swiggy2.png) |
+> Here's a visual overview of each page in the report:
 
-| Restaurants Page | Customer Analytics |
-|------------------|--------------------|
-| ![Restaurants](Swiggy3.png) | ![Customers](Swiggy4.png) |
+### Orders & Revenue
+![Orders Overview](Swiggy1.png)
 
+### Delivery Partner Performance
+![Delivery Partners](Swiggy2.png)
+
+### Restaurant Insights
+![Restaurant Page](Swiggy3.png)
+
+### Customer Analytics
+![Customer Insights](Swiggy4.png)
+
+---
+
+## 💡 Key Insights
+
+- 5 cities generate over 75% of total revenue.
+- Partner Alia Madan delivers the slowest on average; Partner Uthkarsh Talwar has best punctuality.
+- High-rated restaurants consistently bring in more revenue.
+- Repeat customers form the top 20% of spenders — key loyalty segment.
+
+---
+
+## 🧑‍💻 Author
+
+**Shruti**  
+Data Analyst | Business Analyst | Power BI Enthusiast
+[LinkedIn](https://linkedin.com/in/shrutivnair) | [GitHub](https://github.com/ShrutiVNair)
+
+---
+
+## 📥 Clone & Explore
+
+1. Download `Swiggy_Analysis.pbix` from this repository.
+2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Interact with slicers, filters, and visuals to explore insights.
+4. Optional: Export as PDF or PPT for your portfolio or job applications.
+
+---
+
+## 📬 Contact
+
+📩 Email: shrutinair.v.31@gmail.com
 
